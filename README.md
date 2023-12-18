@@ -4,7 +4,8 @@
 > An open source set of utilities to simplify and improve making image to run in a containers context. 
 >
 > 🚀 Powered by the [Tamia Team](https://tamia.team).
->
+
+**Contributing 🙂 and/or [sponsoring]((https://github.com/sponsors/tamia-team)) 🥰 are welcome!**
 
 ## Synopsis
 
