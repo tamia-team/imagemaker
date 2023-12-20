@@ -1,4 +1,4 @@
-# tamia-team/oss-imagemaker
+# tamia-team/imagemaker
 
 >
 > An open source set of utilities to simplify and improve making image to run in a containers context. 
